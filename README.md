@@ -19,6 +19,11 @@ The winner will be decided if any player does three in a row horizontally, verti
 
 A score for each player will be saved and maintained. You can delete the save file, and lose all scores.
 
+You can also pause the game. When it's asked of you to play, if you say "999", the current status of
+the game, board, player turn, and scores will all be saved. When you start the game and select to
+continue previous round(if you select start new round, you can't continue previous game) the game
+will start exacly where you stoped previously.
+
 ```
 
 > Four in a Row Game
@@ -33,6 +38,11 @@ if it isn't full yet(column)
 The winner will be decided if any players does four in a row horizontally, vertically or in a diagonal.
 
 A score for each player will be saved and maintained. You can delete the save file, and lose all scores.
+
+You can also pause the game. When it's asked of you to play, if you say "999", the current status of
+the game, board, player turn, and scores will all be saved. When you start the game and select to
+continue previous round(if you select start new round, you can't continue previous game) the game
+will start exacly where you stoped previously.
 
 ```
 
@@ -50,5 +60,23 @@ stay as underscores. If you are wrong, a hangman will happear, and if you reach 
 The winner will be decided if you get all letters correct with 1 or more lives remaining.
 
 A score for you will be saved and maintained. You can delete the save file, and lose the scores.
+
+You can also pause the game. When it's asked of you to play, if you say "999", the current status of
+the game, mystery word, player turn, scores and your word hints, will all be saved. When you start
+the game and select to continue previous round(if you select start new round, you can't continue
+previous game) the game will start exacly where you stoped previously.
+
+Available changes you can do:
+  - Change or add more words my seperating them with a comma( , ) and between quoting marks(" ")
+    like this example: word_animals = ["cat", "dog", "shark"] on the lines from 8 to 18(there is also
+    words in portuguese and english). You can add words with or without spaces.
+
+```
+
+
+> Minesweeper Game
+```
+
+Currently in development
 
 ```
