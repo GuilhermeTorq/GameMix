@@ -12,11 +12,12 @@ Also, I coded these games using my own logic of understading on how to implement
 
 How to play:
 The game board will be displayed in a square of 3x3, you will be then asked to select a number from 1 to 9.
-The number will indicate a position of the square and will play an "X" or "0", depending on wich player is playing.
+The number will indicate a position of the square and will play an "X" or "0", dependingon wich player
+is playing.
 
-The winner will be decided if any of the players do three in a row horizontally, vertically or in a diagonal.
+The winner will be decided if any player does three in a row horizontally, vertically or in a diagonal.
 
-A score for each player will be saved and maintained. You can also delete the save file, and lose all scores.
+A score for each player will be saved and maintained. You can delete the save file, and lose all scores.
 
 ```
 
@@ -26,12 +27,12 @@ A score for each player will be saved and maintained. You can also delete the sa
 How to play:
 The game board will be displayed in a rectangle of 7x6, you will then be asked to select a number, 1 to 7.
 The number will indicate a position of the column and will play an "X" or "0", depending on wich player
-is playing. If you select a position that already has a play in it, your play will be on top of it that is if
-it isn't full yet(column)
+is playing. If you select a position that already has a play in it, your play will be on top of it that is
+if it isn't full yet(column)
 
-The winner will be decided if any of the players do four in a row horizontally, vertically or in a diagonal.
+The winner will be decided if any players does four in a row horizontally, vertically or in a diagonal.
 
-A score for each player will be saved and maintained. You can also delete the save file, and lose all scores.
+A score for each player will be saved and maintained. You can delete the save file, and lose all scores.
 
 ```
 
@@ -48,6 +49,6 @@ stay as underscores. If you are wrong, a hangman will happear, and if you reach 
 
 The winner will be decided if you get all letters correct with 1 or more lives remaining.
 
-A score for you will be saved and maintained. You can also delete the save file, and lose the scores.
+A score for you will be saved and maintained. You can delete the save file, and lose the scores.
 
 ```
