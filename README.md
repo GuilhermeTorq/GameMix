@@ -11,7 +11,7 @@ Also, I coded these games using my own logic of understading on how to implement
 ```
 
 How to play:
-The game board will be displayed in a square of 3x3, you will be then asked to select a number from 1 to 9.
+The game board will be displayed in a square of 3x3, you will then be asked to select a number, 1 to 9.
 The number will indicate a position of the square and will play an "X" or "0", dependingon wich player
 is playing.
 
