@@ -8,7 +8,7 @@ def winner(result=0, player=1, board=[]):
     # ///////////////////////////////////////////////////////////////////////////////////////////////// Checks Rows
     for k in range(3):
         if k == 1:
-            k = k + 2  # Search segond row
+            k = k + 2  # Search second row
         elif k == 2:
             k = k + 4  # Search third row
 
