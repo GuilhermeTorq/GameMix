@@ -6,6 +6,11 @@ The games were coded in my original languague and then translated to english for
 
 Also, I coded these games using my own logic of understading on how to implement what I'm thinking to code. It might look sluggish or weird, but to me it's actually quite clear. But I understand that I still need to improve how I code. For now, this is it.
 
+There are two types of files shared. There is a raw python code and also an executable that i did with pyinstaller(GameMix executable), so you don't need to have a Python interpreter installed.
+
+- To play the game you can just open the folder GameMix executable and run the first file named main.exe(NOT main.spec)
+
+- To see the code, you can just open the folder on your IDLE interpreter.
 
 > Rooster Game
 ```
